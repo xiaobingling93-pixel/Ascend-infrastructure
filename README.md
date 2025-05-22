@@ -1,7 +1,7 @@
 # infrastructure
 
 #### 介绍
-本仓库用于托管昇腾（ascend）开源/开放项目基础设施团队公开的信息，包括会议，成员，代码，文档等
+欢迎 本仓库用于托管昇腾（ascend）开源/开放项目基础设施团队公开的信息，包括会议，成员，代码，文档等
 
 #### 我们是谁
 昇腾（ascend）开源/开放项目基础设施聚焦为昇腾相关的开源，开放项目提供易用，高效，安全的开发者和用户服务
@@ -10,6 +10,12 @@
 #### 服务别表
 
 请参看[服务列表](docs/services.md)
+
+#### 代码仓库
+下面列出了基础设施团队维护的代码仓，如果您有兴趣或有任何疑问，欢迎通过issue和我们联系
+
+cann-container-image: https://gitee.com/ascend/cann-container-image
+    - 联系人：wangxiaoshuang18@huawei.com
 
 #### 联系我们
 
