@@ -14,8 +14,9 @@
 #### 代码仓库
 下面列出了基础设施团队维护的代码仓，如果您有兴趣或有任何疑问，欢迎通过issue和我们联系
 
-cann-container-image: https://gitee.com/ascend/cann-container-image
-    - 联系人：wangxiaoshuang18@huawei.com
+| 项目名称|项目功能|代码仓|联系人|
+|-|-|-|-|
+|cann-container-image|cann容器镜像dockerfile和相关脚本| https://gitee.com/ascend/cann-container-image|wangxiaoshuang18@huawei.com|
 
 #### 联系我们
 
