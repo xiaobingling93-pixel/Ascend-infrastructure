@@ -1,0 +1,6 @@
+- sig_name: infrastructure
+  etherpad: https://etherpad-ascend.osinfra.cn/p/infrastructure
+  meeting_creators:
+    - account: tom_toworld
+    - account: drizzlezyk
+    - account: lichaoran1221
