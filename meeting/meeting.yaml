@@ -6,7 +6,7 @@
     - account: lichaoran1221
 
 - sig_name: RecSDK
-  etherpad: https://etherpad-ascend.osinfra.cn/p/RecSDK
+  etherpad: https://etherpad-ascend.meeting.osinfra.cn/p/RecSDK
   meeting_creators:
     - account: simmerchan
     - account: hw_008618049617350_01
