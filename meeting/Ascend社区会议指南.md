@@ -2,7 +2,7 @@
 
 ## 一、介绍
 
-Ascend社区在官网 [社区会议平台](https://meeting.osinfra.cn/ascend) 提供会议预定功能。
+Ascend社区在官网 [社区会议平台](https://meeting.ascend.osinfra.cn/) 提供会议预定功能。
 
 ![1761617400166](assets/1761617400166.png)
 
