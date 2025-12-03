@@ -1,12 +1,46 @@
-# CLA 签署指南
+# CLA使用指南
 
-根据你的身份，选择对应的操作流程，这是最快完成签署的方法。
+## 目录
+
+### [👉 CLA签署流程图](#cla-signing-flowchart)
+
+### [👉 Ascend社区CLA签署首页](#ascend-homepage)
+
+### [👉 我是个人开发者，为自己做贡献](#personal-contributor)
+
+### [👉 我是企业员工，代表公司做贡献](#employee-contributor)
+
+### [👉 我是企业代表，需要为公司签署](#company-representative)
+
+### [✅ CLA 签署状态验证（个人以及企业员工）](#cla-signing-status-verification)
+
+### [⚠️ 重要注意事项）](#important-notes)
+
+### [🔧 Git 邮箱配置）](#git-email-configuration)
+
+### [❓ FAQ](#faq)
+
+### [💡 备注](#remark)
+
+---
+
+<a id="cla-signing-flowchart"></a>
+## 👉 CLA签署流程图
+
+![alt text](images/image1.png)
+
+<a id="ascend-homepage"></a>
+## [👉 Ascend社区CLA签署首页](https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1)
 
 ![alt text](images/image-2.png)
 
 ---
+根据你的身份，选择对应的操作流程，这是最快完成签署的方法。
 
+<a id="personal-contributor"></a>
 ## 🤔 我是个人开发者，为自己做贡献
+
+### [👉 签署个人CLA](https://clasign.osinfra.cn/sign-cla/690ca9ddf91c03dee6082ab1/individual)
 
 ![alt text](images/image-3.png)
 
@@ -43,7 +77,11 @@
 
 ---
 
+<a id="employee-contributor"></a>
 ## 🏢 我是企业员工，代表公司做贡献
+
+### [👉 法人贡献者登记](https://clasign.osinfra.cn/sign-cla/690ca9ddf91c03dee6082ab1/employee)
+
 ![alt text](images/image-4.png)
 
 **注意：如果您是学校师生，请根据您的贡献身份选择对应流程：**
@@ -72,7 +110,10 @@
 
 ---
 
-## 🏛️ 我是企业代表，需要为公司签署 CLA
+<a id="company-representative"></a>
+### 🏛️ 我是企业代表，需要为公司签署 CLA
+
+## [👉 签署法人CLA](https://clasign.osinfra.cn/sign-cla/690ca9ddf91c03dee6082ab1/corporation)
 
 ![alt text](images/image-5.png) 
 
@@ -103,6 +144,9 @@
 
 4. **点击企业管理员，使用超级管理员或者普通管理员账号进行登录**
 
+### [👉 企业管理员](https://clasign.osinfra.cn/corporation-manager-login/690ca9ddf91c03dee6082ab1)
+
+
 ![alt text](images/image-8.png)
 
 - **超级管理员登录后页面**
@@ -119,11 +163,12 @@
 - **普通管理员**：负责日常审批本公司员工的 CLA 签署申请
 ---
 
+<a id="cla-signing-status-verification"></a>
 ## ✅ CLA 签署状态验证（个人以及企业员工）
 
-签署完成后，可以通过以下链接进行验证（将 `:community-link-id` 和邮箱替换为你签署 CLA 时的实际信息）：
+签署完成后，可以通过以下链接进行验证（将邮箱替换为你签署 CLA 时的实际信息）：
 
-https://clasign.osinfra.cn/api/v1/individual-signing/:community-link-id?email=your-email@example.com
+https://clasign.osinfra.cn/api/v1/individual-signing/690ca9ddf91c03dee6082ab1?email=your-email@example.com
 
 
 **成功标志**：返回结果中必须包含两个 `true` 值
@@ -134,6 +179,7 @@ https://clasign.osinfra.cn/api/v1/individual-signing/:community-link-id?email=yo
 
 ---
 
+<a id="important-notes"></a>
 ## ⚠️ 重要注意事项
 
 即使 CLA 签署成功，也**不是立即**就可以向社区贡献代码。在提交 PR 时，社区机器人会检查贡献者的 CLA 状态。
@@ -144,13 +190,14 @@ https://clasign.osinfra.cn/api/v1/individual-signing/:community-link-id?email=yo
 - 如果 Git 配置的邮箱与签署 CLA 时使用的邮箱不一致，检查会失败
 - 错误提示示例：`ascend-cla/no`
 
+<a id="git-email-configuration"></a>
 ## 🔧 Git 邮箱配置
 
 ### 基本原则
 
 **签署 CLA 时使用什么邮箱，提交代码时也必须使用相同的邮箱**
 
-### 1. 提交前检查与配置
+### 提交前检查与配置
 
 在提交代码前，建议先检查并正确配置 Git 邮箱：
 
@@ -207,8 +254,8 @@ git config --global user.email "签署CLA的邮箱"
 
   - 使用 git config --list --show-origin 验证配置是否生效
 
-
-## FAQ
+<a id="faq"></a>
+## ❓ FAQ
 
 #### 1. **提交PR后出现ascend-cla/no红色标签处理指南**
 
@@ -319,3 +366,18 @@ git push --force
 
 #### 5. 问：收不到来自社区发来的签署cla的邮件或找不到管理员怎么办？
 **答： 首先检查邮箱的垃圾邮件文件夹。如果仍无法找到，请在公司的技术交流群或直接向你的上级询问："我们公司开源 CLA 的审批负责人是谁？"**
+
+<a id="remark"></a>
+## 💡 备注
+
+在使用过程中，如遇到任何问题或需要协助，欢迎通过以下方式联系我们：
+
+### 问题反馈渠道
+
+| 方式 | 说明 | 响应时间 |
+|------|------|----------|
+| 📝 **提交ISSUE** | 通过项目仓库的Issue板块反馈问题 | 1-5个工作日 |
+| 👥 **联系基础设施SIG** | 直接联系基础设施特别兴趣小组获取专业技术支持 | 及时响应 |
+| 💬 **社区讨论** | 参与相关技术社区讨论，与其他开发者交流经验 | 实时交流 |
+
+我们将竭诚为您提供帮助，确保使用过程顺畅无忧。
