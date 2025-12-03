@@ -1,0 +1,7 @@
+users:
+  - gitee_id: ""
+    gitcode_id: test
+    companies:
+      - company_name: test公司
+        end_date: ""
+    emails: []
