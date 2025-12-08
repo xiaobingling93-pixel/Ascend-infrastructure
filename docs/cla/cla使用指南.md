@@ -14,9 +14,9 @@
 
 ### [✅ CLA 签署状态验证（个人以及企业员工）](#cla-signing-status-verification)
 
-### [⚠️ 重要注意事项）](#important-notes)
+### [⚠️ 重要注意事项](#important-notes)
 
-### [🔧 Git 邮箱配置）](#git-email-configuration)
+### [🔧 Git 邮箱配置](#git-email-configuration)
 
 ### [❓ FAQ](#faq)
 
