@@ -41,11 +41,11 @@
 |               | [MindStudio-Kernel-Launcher](https://gitcode.com/Ascend/mskl)                | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
 |               | [MindStudio-Inference-Tools](https://gitcode.com/Ascend/msit)                | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
 |               | [MindStudio-Training-Tools](https://gitcode.com/Ascend/mstt)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
-| MindIE        | [MindIE-LLM](https://gitcode.com/Ascend/MindIE-LLM)          |                                                       |                              |
-|               | [MindIE-SD](https://gitcode.com/Ascend/MindIE-SD)            |                                                       |                              |
-|               | [MindIE-Turbo](https://gitcode.com/Ascend/MindIE-Turbo)      |                                                       |                              |
-|               | [MindIE-Motor](https://gitcode.com/Ascend/MindIE-Motor)      |                                                       |                              |
-|               | [MindIE-PyMotor](https://gitcode.com/Ascend/MindIE-PyMotor)  |                                                       |                              |
+| MindIE        | [MindIE-LLM](https://gitcode.com/Ascend/MindIE-LLM)          | [@xqchen7](https://gitcode.com/xqchen7) <br> [@duping](https://gitcode.com/duping) | chenxueqin7@h-partners.com <br> duping31@h-partners.com |
+|               | [MindIE-SD](https://gitcode.com/Ascend/MindIE-SD)            | [@xqchen7](https://gitcode.com/xqchen7) <br> [@duping](https://gitcode.com/duping) | chenxueqin7@h-partners.com <br> duping31@h-partners.com |
+|               | [MindIE-Turbo](https://gitcode.com/Ascend/MindIE-Turbo)      | [@xqchen7](https://gitcode.com/xqchen7) <br> [@duping](https://gitcode.com/duping) | chenxueqin7@h-partners.com <br> duping31@h-partners.com |
+|               | [MindIE-Motor](https://gitcode.com/Ascend/MindIE-Motor)      | [@xqchen7](https://gitcode.com/xqchen7) <br> [@duping](https://gitcode.com/duping) | chenxueqin7@h-partners.com <br> duping31@h-partners.com |
+|               | [MindIE-PyMotor](https://gitcode.com/Ascend/MindIE-PyMotor)  | [@xqchen7](https://gitcode.com/xqchen7) <br> [@duping](https://gitcode.com/duping) | chenxueqin7@h-partners.com <br> duping31@h-partners.com |
 | MindSpeed     | [MindSpeed](https://gitcode.com/Ascend/MindSpeed)            | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
 |               | [MindSpeed-LLM](https://gitcode.com/Ascend/MindSpeed-LLM)    | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
 |               | [MindSpeed-MM](https://gitcode.com/Ascend/MindSpeed-MM)      | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
@@ -57,17 +57,17 @@
 |               | [torchair](https://gitcode.com/Ascend/torchair)              | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
 |               | [Tensorpipe](https://gitcode.com/Ascend/Tensorpipe)          | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
 |               | [vision](https://gitcode.com/Ascend/vision)                  | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
-| MindCluster   | [MindCluster](https://gitcode.com/Ascend/mind-cluster)       |                                                       |                              |
-|               | [MEF](https://gitcode.com/Ascend/MEF)                        |                                                       |                              |
-|               | [OMSDK](https://gitcode.com/Ascend/OMSDK)                    |                                                       |                              |
-|               | [memcache](https://gitcode.com/Ascend/memcache)              |                                                       |                              |
-|               | [memfabric-hybrid](https://gitcode.com/Ascend/memfabric_hybrid) |                                                       |                              |
-| MindSeriesSDK | [RecSDK](https://gitcode.com/Ascend/RecSDK)                  |                                                       |                              |
-|               | [VisionSDK](https://gitcode.com/Ascend/VisionSDK)            |                                                       |                              |
-|               | [AgentSDK](https://gitcode.com/Ascend/AgentSDK)              |                                                       |                              |
-|               | [MultimodalSDK](https://gitcode.com/Ascend/MultimodalSDK)    |                                                       |                              |
-|               | [DrivingSDK](https://gitcode.com/Ascend/DrivingSDK)          |                                                       |                              |
-|               | [IndexSDK](https://gitcode.com/Ascend/IndexSDK)              |                                                       |                              |
-|               | [RAGSDK](https://gitcode.com/Ascend/RAGSDK)                  |                                                       |                              |
-|               | [MindInferenceService](https://gitcode.com/Ascend/MindInferenceService) |                                                       |                              |
-
+| MindCluster   | [MindCluster](https://gitcode.com/Ascend/mind-cluster)       | [@fufeng123_](https://gitcode.com/fufeng123_) <br> [@lmm604](https://gitcode.com/lmm604)  | wufengxiang@h-partners.com <br> limiaomiao30@h-partners.com   |
+|               | [MEF](https://gitcode.com/Ascend/MEF)                        | [@fufeng123_](https://gitcode.com/fufeng123_) <br> [@lmm604](https://gitcode.com/lmm604)  | wufengxiang@h-partners.com <br> limiaomiao30@h-partners.com   |
+|               | [OMSDK](https://gitcode.com/Ascend/OMSDK)                    | [@fufeng123_](https://gitcode.com/fufeng123_) <br> [@lmm604](https://gitcode.com/lmm604)  | wufengxiang@h-partners.com <br> limiaomiao30@h-partners.com   |
+|               | [MindCluster-AscendDeployer](https://gitcode.com/Ascend/ascend-deployer) | [@fufeng123_](https://gitcode.com/fufeng123_) <br> [@lmm604](https://gitcode.com/lmm604)  | wufengxiang@h-partners.com <br> limiaomiao30@h-partners.com   |
+|               | [memcache](https://gitcode.com/Ascend/memcache)              |[@wangqi0808](https://gitcode.com/wangqi0808)                                                     | wangqi479@h-partners.com  |
+|               | [memfabric-hybrid](https://gitcode.com/Ascend/memfabric_hybrid) |[@wangqi0808](https://gitcode.com/wangqi0808)                                                  | wangqi479@h-partners.com  |
+| MindSeriesSDK | [RecSDK](https://gitcode.com/Ascend/RecSDK)                  | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
+|               | [VisionSDK](https://gitcode.com/Ascend/VisionSDK)            | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
+|               | [AgentSDK](https://gitcode.com/Ascend/AgentSDK)              | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
+|               | [MultimodalSDK](https://gitcode.com/Ascend/MultimodalSDK)    | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
+|               | [DrivingSDK](https://gitcode.com/Ascend/DrivingSDK)          |[@Wss_321](https://gitcode.com/Wss_321)                | wangshusheng7@h-partners.com  |
+|               | [IndexSDK](https://gitcode.com/Ascend/IndexSDK)              |[@Wss_321](https://gitcode.com/Wss_321)                | wangshusheng7@h-partners.com  |
+|               | [RAGSDK](https://gitcode.com/Ascend/RAGSDK)                  | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
+|               | [MindInferenceService](https://gitcode.com/Ascend/MindInferenceService) | [@yyf19980321](https://gitcode.com/yyf19980321) <br> [@fufeng123_](https://gitcode.com/fufeng123_) | yangyifei11@h-partners.com <br> wufengxiang@h-partners.com |
