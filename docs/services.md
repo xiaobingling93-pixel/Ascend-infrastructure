@@ -19,26 +19,28 @@
 
 | 组件          | 仓名                                                         | GITCODE账号                                             | 邮箱                           |
 | ------------- | ------------------------------------------------------------ |-------------------------------------------------------|------------------------------|
-| MindStudio    | [MindStudio-Profiler-Tools-Interface](https://gitcode.com/Ascend/mspti) | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com        |
-|               | [MindStudio-Operator-Tools](https://gitcode.com/Ascend/msot) |                                                       |                              |
-|               | [MindStudio-MemScope](https://gitcode.com/Ascend/msmemscope) |                                                       |                              |
-|               | [MindStudio-Monitor](https://gitcode.com/Ascend/msmonitor)   |                                                       |                              |
-|               | [MindStudio-Profiler](https://gitcode.com/Ascend/msprof)     |                                                       |                              |
-|               | [MindStudio-Insight](https://gitcode.com/Ascend/msinsight)   |                                                       |                              |
-|               | [MindStudio-ModelSlim](https://gitcode.com/Ascend/msmodelslim) |                                                       |                              |
-|               | [MindStudio-Sanitizer](https://gitcode.com/Ascend/mssanitizer) |                                                       |                              |
-|               | [MindStudio-Ops-Profiler](https://gitcode.com/Ascend/msopprof) |                                                       |                              |
-|               | [MindStudio-Probe](https://gitcode.com/Ascend/msprobe)       |                                                       |                              |
-|               | [MindStudio-Service-Profiler](https://gitcode.com/Ascend/msserviceprofiler) |                                                       |                              |
-|               | [MindStudio-Ops-Common](https://gitcode.com/Ascend/msopcom)  |                                                       |                              |
-|               | [MindStudio-Modeling](https://gitcode.com/Ascend/msmodeling) |                                                       |                              |
-|               | [MindStudio-Profiler-Analyze](https://gitcode.com/Ascend/msprof-analyze) |                                                       |                              |
-|               | [MindStudio-Debugger](https://gitcode.com/Ascend/msdebug)    |                                                       |                              |
-|               | [MindStudio-Kernel-Performance-Prediction](https://gitcode.com/Ascend/mskpp) |                                                       |                              |
-|               | [MindStudio-Tools-Extension-Library](https://gitcode.com/Ascend/mstx) |                                                       |                              |
-|               | [MindStudio-Ops-Tuner](https://gitcode.com/Ascend/msoptuner) |                                                       |                              |
-|               | [MindStudio-Ops-Generator](https://gitcode.com/Ascend/msopgen) |                                                       |                              |
-|               | [MindStudio-Kernel-Launcher](https://gitcode.com/Ascend/mskl) |                                                       |                              |
+| MindStudio    | [MindStudio-Profiler-Tools-Interface](https://gitcode.com/Ascend/mspti)      | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Operator-Tools](https://gitcode.com/Ascend/msot)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-MemScope](https://gitcode.com/Ascend/msmemscope)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Monitor](https://gitcode.com/Ascend/msmonitor)                   | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Profiler](https://gitcode.com/Ascend/msprof)                     | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Insight](https://gitcode.com/Ascend/msinsight)                   | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-ModelSlim](https://gitcode.com/Ascend/msmodelslim)               | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Sanitizer](https://gitcode.com/Ascend/mssanitizer)               | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Ops-Profiler](https://gitcode.com/Ascend/msopprof)               | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Probe](https://gitcode.com/Ascend/msprobe)                       | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Service-Profiler](https://gitcode.com/Ascend/msserviceprofiler)  | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Ops-Common](https://gitcode.com/Ascend/msopcom)                  | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Modeling](https://gitcode.com/Ascend/msmodeling)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Profiler-Analyze](https://gitcode.com/Ascend/msprof-analyze)     | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Debugger](https://gitcode.com/Ascend/msdebug)                    | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Kernel-Performance-Prediction](https://gitcode.com/Ascend/mskpp) | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Tools-Extension-Library](https://gitcode.com/Ascend/mstx)        | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Ops-Tuner](https://gitcode.com/Ascend/msoptuner)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Ops-Generator](https://gitcode.com/Ascend/msopgen)               | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Kernel-Launcher](https://gitcode.com/Ascend/mskl)                | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Inference-Tools](https://gitcode.com/Ascend/msit)                | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
+|               | [MindStudio-Training-Tools](https://gitcode.com/Ascend/mstt)                 | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
 | MindIE        | [MindIE-LLM](https://gitcode.com/Ascend/MindIE-LLM)          |                                                       |                              |
 |               | [MindIE-SD](https://gitcode.com/Ascend/MindIE-SD)            |                                                       |                              |
 |               | [MindIE-Turbo](https://gitcode.com/Ascend/MindIE-Turbo)      |                                                       |                              |
