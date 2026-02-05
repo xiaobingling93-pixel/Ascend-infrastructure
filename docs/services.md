@@ -17,56 +17,55 @@
 - 每日冒烟流水线（Nightly）执行异常
 - 代码合入异常
 
-| 组件          | 仓名                                                         | GITCODE账号                                           | 邮箱                  |
-| ------------- | ------------------------------------------------------------ | ----------------------------------------------------- | --------------------- |
-| MindStudio    | [MindStudio-Profiler-Tools-Interface](https://gitcode.com/Ascend/mspti) | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com |
-|               | [MindStudio-Operator-Tools](https://gitcode.com/Ascend/msot) |                                                       |                       |
-|               | [MindStudio-MemScope](https://gitcode.com/Ascend/msmemscope) |                                                       |                       |
-|               | [MindStudio-Monitor](https://gitcode.com/Ascend/msmonitor)   |                                                       |                       |
-|               | [MindStudio-Profiler](https://gitcode.com/Ascend/msprof)     |                                                       |                       |
-|               | [MindStudio-Insight](https://gitcode.com/Ascend/msinsight)   |                                                       |                       |
-|               | [MindStudio-ModelSlim](https://gitcode.com/Ascend/msmodelslim) |                                                       |                       |
-|               | [MindStudio-Sanitizer](https://gitcode.com/Ascend/mssanitizer) |                                                       |                       |
-|               | [MindStudio-Ops-Profiler](https://gitcode.com/Ascend/msopprof) |                                                       |                       |
-|               | [MindStudio-Probe](https://gitcode.com/Ascend/msprobe)       |                                                       |                       |
-|               | [MindStudio-Service-Profiler](https://gitcode.com/Ascend/msserviceprofiler) |                                                       |                       |
-|               | [MindStudio-Ops-Common](https://gitcode.com/Ascend/msopcom)  |                                                       |                       |
-|               | [MindStudio-Modeling](https://gitcode.com/Ascend/msmodeling) |                                                       |                       |
-|               | [MindStudio-Profiler-Analyze](https://gitcode.com/Ascend/msprof-analyze) |                                                       |                       |
-|               | [MindStudio-Debugger](https://gitcode.com/Ascend/msdebug)    |                                                       |                       |
-|               | [MindStudio-Kernel-Performance-Prediction](https://gitcode.com/Ascend/mskpp) |                                                       |                       |
-|               | [MindStudio-Tools-Extension-Library](https://gitcode.com/Ascend/mstx) |                                                       |                       |
-|               | [MindStudio-Ops-Tuner](https://gitcode.com/Ascend/msoptuner) |                                                       |                       |
-|               | [MindStudio-Ops-Generator](https://gitcode.com/Ascend/msopgen) |                                                       |                       |
-|               | [MindStudio-Kernel-Launcher](https://gitcode.com/Ascend/mskl) |                                                       |                       |
-| MindIE        | [MindIE-LLM](https://gitcode.com/Ascend/MindIE-LLM)          |                                                       |                       |
-|               | [MindIE-SD](https://gitcode.com/Ascend/MindIE-SD)            |                                                       |                       |
-|               | [MindIE-Turbo](https://gitcode.com/Ascend/MindIE-Turbo)      |                                                       |                       |
-|               | [MindIE-Motor](https://gitcode.com/Ascend/MindIE-Motor)      |                                                       |                       |
-|               | [MindIE-PyMotor](https://gitcode.com/Ascend/MindIE-PyMotor)  |                                                       |                       |
-| MindSpeed     | [MindSpeed](https://gitcode.com/Ascend/MindSpeed)            |                                                       |                       |
-|               | [MindSpeed-LLM](https://gitcode.com/Ascend/MindSpeed-LLM)    |                                                       |                       |
-|               | [MindSpeed-MM](https://gitcode.com/Ascend/MindSpeed-MM)      |                                                       |                       |
-|               | [MindSpeed-RL](https://gitcode.com/Ascend/MindSpeed-RL)      |                                                       |                       |
-|               | [MindSpeed-Core-MS](https://gitcode.com/Ascend/MindSpeed-Core-MS) |                                                       |                       |
-| PyTorch       | [pytorch](https://gitcode.com/Ascend/pytorch)                |                                                       |                       |
-|               | [op-plugin](https://gitcode.com/Ascend/op-plugin)            |                                                       |                       |
-|               | [ModelZoo-PyTorch](https://gitcode.com/Ascend/ModelZoo-PyTorch) |                                                       |                       |
-|               | [torchair](https://gitcode.com/Ascend/torchair)              |                                                       |                       |
-|               | [torch-mlir](https://gitcode.com/Ascend/torch-mlir)          |                                                       |                       |
-|               | [Tensorpipe](https://gitcode.com/Ascend/Tensorpipe)          |                                                       |                       |
-|               | [vision](https://gitcode.com/Ascend/vision)                  |                                                       |                       |
-| MindCluster   | [MindCluster](https://gitcode.com/Ascend/mind-cluster)       |                                                       |                       |
-|               | [MEF](https://gitcode.com/Ascend/MEF)                        |                                                       |                       |
-|               | [OMSDK](https://gitcode.com/Ascend/OMSDK)                    |                                                       |                       |
-|               | [memcache](https://gitcode.com/Ascend/memcache)              |                                                       |                       |
-|               | [memfabric-hybrid](https://gitcode.com/Ascend/memfabric_hybrid) |                                                       |                       |
-| MindSeriesSDK | [RecSDK](https://gitcode.com/Ascend/RecSDK)                  |                                                       |                       |
-|               | [VisionSDK](https://gitcode.com/Ascend/VisionSDK)            |                                                       |                       |
-|               | [AgentSDK](https://gitcode.com/Ascend/AgentSDK)              |                                                       |                       |
-|               | [MultimodalSDK](https://gitcode.com/Ascend/MultimodalSDK)    |                                                       |                       |
-|               | [DrivingSDK](https://gitcode.com/Ascend/DrivingSDK)          |                                                       |                       |
-|               | [IndexSDK](https://gitcode.com/Ascend/IndexSDK)              |                                                       |                       |
-|               | [RAGSDK](https://gitcode.com/Ascend/RAGSDK)                  |                                                       |                       |
-|               | [MindInferenceService](https://gitcode.com/Ascend/MindInferenceService) |                                                       |                       |
+| 组件          | 仓名                                                         | GITCODE账号                                             | 邮箱                           |
+| ------------- | ------------------------------------------------------------ |-------------------------------------------------------|------------------------------|
+| MindStudio    | [MindStudio-Profiler-Tools-Interface](https://gitcode.com/Ascend/mspti) | [@overfitting_zh](https://gitcode.com/overfitting_zh) | zhanghan72@huawei.com        |
+|               | [MindStudio-Operator-Tools](https://gitcode.com/Ascend/msot) |                                                       |                              |
+|               | [MindStudio-MemScope](https://gitcode.com/Ascend/msmemscope) |                                                       |                              |
+|               | [MindStudio-Monitor](https://gitcode.com/Ascend/msmonitor)   |                                                       |                              |
+|               | [MindStudio-Profiler](https://gitcode.com/Ascend/msprof)     |                                                       |                              |
+|               | [MindStudio-Insight](https://gitcode.com/Ascend/msinsight)   |                                                       |                              |
+|               | [MindStudio-ModelSlim](https://gitcode.com/Ascend/msmodelslim) |                                                       |                              |
+|               | [MindStudio-Sanitizer](https://gitcode.com/Ascend/mssanitizer) |                                                       |                              |
+|               | [MindStudio-Ops-Profiler](https://gitcode.com/Ascend/msopprof) |                                                       |                              |
+|               | [MindStudio-Probe](https://gitcode.com/Ascend/msprobe)       |                                                       |                              |
+|               | [MindStudio-Service-Profiler](https://gitcode.com/Ascend/msserviceprofiler) |                                                       |                              |
+|               | [MindStudio-Ops-Common](https://gitcode.com/Ascend/msopcom)  |                                                       |                              |
+|               | [MindStudio-Modeling](https://gitcode.com/Ascend/msmodeling) |                                                       |                              |
+|               | [MindStudio-Profiler-Analyze](https://gitcode.com/Ascend/msprof-analyze) |                                                       |                              |
+|               | [MindStudio-Debugger](https://gitcode.com/Ascend/msdebug)    |                                                       |                              |
+|               | [MindStudio-Kernel-Performance-Prediction](https://gitcode.com/Ascend/mskpp) |                                                       |                              |
+|               | [MindStudio-Tools-Extension-Library](https://gitcode.com/Ascend/mstx) |                                                       |                              |
+|               | [MindStudio-Ops-Tuner](https://gitcode.com/Ascend/msoptuner) |                                                       |                              |
+|               | [MindStudio-Ops-Generator](https://gitcode.com/Ascend/msopgen) |                                                       |                              |
+|               | [MindStudio-Kernel-Launcher](https://gitcode.com/Ascend/mskl) |                                                       |                              |
+| MindIE        | [MindIE-LLM](https://gitcode.com/Ascend/MindIE-LLM)          |                                                       |                              |
+|               | [MindIE-SD](https://gitcode.com/Ascend/MindIE-SD)            |                                                       |                              |
+|               | [MindIE-Turbo](https://gitcode.com/Ascend/MindIE-Turbo)      |                                                       |                              |
+|               | [MindIE-Motor](https://gitcode.com/Ascend/MindIE-Motor)      |                                                       |                              |
+|               | [MindIE-PyMotor](https://gitcode.com/Ascend/MindIE-PyMotor)  |                                                       |                              |
+| MindSpeed     | [MindSpeed](https://gitcode.com/Ascend/MindSpeed)            | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
+|               | [MindSpeed-LLM](https://gitcode.com/Ascend/MindSpeed-LLM)    | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
+|               | [MindSpeed-MM](https://gitcode.com/Ascend/MindSpeed-MM)      | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
+|               | [MindSpeed-RL](https://gitcode.com/Ascend/MindSpeed-RL)      | [@wujinyuan1](https://gitcode.com/wujinyuan1)         | wujinyuan1@huawei.com        |
+|               | [MindSpeed-Core-MS](https://gitcode.com/Ascend/MindSpeed-Core-MS) | [@jinyidou](https://gitcode.com/jinyidou)             | jinyidou@huawei.com          |
+| PyTorch       | [pytorch](https://gitcode.com/Ascend/pytorch)                | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+|               | [op-plugin](https://gitcode.com/Ascend/op-plugin)            | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+|               | [ModelZoo-PyTorch](https://gitcode.com/Ascend/ModelZoo-PyTorch) | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+|               | [torchair](https://gitcode.com/Ascend/torchair)              | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+|               | [Tensorpipe](https://gitcode.com/Ascend/Tensorpipe)          | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+|               | [vision](https://gitcode.com/Ascend/vision)                  | [@WSs_321](https://gitcode.com/WSs_321)              | wangshusheng7@h-partners.com |
+| MindCluster   | [MindCluster](https://gitcode.com/Ascend/mind-cluster)       |                                                       |                              |
+|               | [MEF](https://gitcode.com/Ascend/MEF)                        |                                                       |                              |
+|               | [OMSDK](https://gitcode.com/Ascend/OMSDK)                    |                                                       |                              |
+|               | [memcache](https://gitcode.com/Ascend/memcache)              |                                                       |                              |
+|               | [memfabric-hybrid](https://gitcode.com/Ascend/memfabric_hybrid) |                                                       |                              |
+| MindSeriesSDK | [RecSDK](https://gitcode.com/Ascend/RecSDK)                  |                                                       |                              |
+|               | [VisionSDK](https://gitcode.com/Ascend/VisionSDK)            |                                                       |                              |
+|               | [AgentSDK](https://gitcode.com/Ascend/AgentSDK)              |                                                       |                              |
+|               | [MultimodalSDK](https://gitcode.com/Ascend/MultimodalSDK)    |                                                       |                              |
+|               | [DrivingSDK](https://gitcode.com/Ascend/DrivingSDK)          |                                                       |                              |
+|               | [IndexSDK](https://gitcode.com/Ascend/IndexSDK)              |                                                       |                              |
+|               | [RAGSDK](https://gitcode.com/Ascend/RAGSDK)                  |                                                       |                              |
+|               | [MindInferenceService](https://gitcode.com/Ascend/MindInferenceService) |                                                       |                              |
 
