@@ -1,11 +1,23 @@
-## 一、基础设施服务列表
+## 一、基础设施支撑矩阵
 
-| 服务名称 | 服务访问地址 | 使用文档 |
-| - | -| - |
-|CLA|https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1|[cla使用指南.md](./cla/cla使用指南.md)|
-|机器人服务|NA|[robot使用指南.md](./robot/robot使用指南.md)|
-|漏洞管理|NA|[漏洞管理使用指南.md](./cve-manager/manual.md)|
-|会议中心|https://meeting.ascend.osinfra.cn/|[Ascend社区会议指南.md](./meeting/Ascend社区会议指南.md)|
+**支撑范围说明**：在参与开源贡献过程中，有基础设施相关需求及问题，可根据以下矩阵联系对应的支撑人咨询处理：
+
+- CLA（贡献者许可协议）签署
+- 社区机器人使用异常
+- 漏洞管理服务（cve-manager）
+- 会议中心
+- 社区邮件列表
+
+
+| 支撑项        | 服务地址                                                           | 使用指导                                         | GITCODE账号                                               | 邮箱                          |  
+|------------|----------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------|-----------------------------|
+| CLA 签署     | [跳转](https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1) | [cla使用指南.md](./cla/cla使用指南.md)               | [@tfh](https://gitcode.com/tfh)                                                | taofeihu1@huawei.com        |
+| 机器人服务      | NA                                                             | [robot使用指南.md](./robot/robot使用指南.md)         | [@Coopermassaki](https://gitcode.com/Coopermassaki)     | <fuyong29@h-partners.com>   |
+| 漏洞管理服务     | NA                                                             | [漏洞管理使用指南.md](./cve-manager/manual.md)       | [@yangwei999](https://gitcode.com/yangwei999)           | <yangwei266@h-partners.com> |
+| 会议中心       | [跳转](https://meeting.ascend.osinfra.cn/)                       | [Ascend社区会议指南.md](./meeting/Ascend社区会议指南.md) | [@ZeesangPie](https://gitcode.com/ZeesangPie)           | <chenglang11@huawei.com>    |
+| 社区邮件列表     | [跳转](https://mailweb.ascend.osinfra.cn/)                                                         | [邮件列表使用指南](./mail-list/邮件列表使用指南.md)          | [@weixin_43493709](https://gitcode.com/weixin_43493709) | <zhuchao50@h-partners.com>  |
+
+---
 
 ## 二、组件仓库 CIE 支撑矩阵
 
