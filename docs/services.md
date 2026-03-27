@@ -12,10 +12,12 @@
 | 支撑项        | 服务地址                                                           | 使用指导                                         | GITCODE账号                                               | 邮箱                          |  
 |------------|----------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------|-----------------------------|
 | CLA 签署     | [跳转](https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1) | [cla使用指南.md](./cla/cla使用指南.md)               | [@tfh](https://gitcode.com/tfh)                                                | taofeihu1@huawei.com        |
-| 机器人服务      | NA                                                             | [robot使用指南.md](./robot/robot使用指南.md)         | [@Coopermassaki](https://gitcode.com/Coopermassaki)     | <fuyong29@h-partners.com>   |
+| 机器人服务      | NA                                                             | [robot使用指南.md](./robot/robot使用指南.md) / [robot能力列表.md](./robot/robot能力列表.md)       | [@Coopermassaki](https://gitcode.com/Coopermassaki)     | <fuyong29@h-partners.com>   |
 | 漏洞管理服务     | NA                                                             | [漏洞管理使用指南.md](./cve-manager/manual.md)       | [@yangwei999](https://gitcode.com/yangwei999)           | <yangwei266@h-partners.com> |
 | 会议中心       | [跳转](https://meeting.ascend.osinfra.cn/)                       | [Ascend社区会议指南.md](./meeting/Ascend社区会议指南.md) | [@ZeesangPie](https://gitcode.com/ZeesangPie)           | <chenglang11@huawei.com>    |
-| 社区邮件列表     | [跳转](https://mailweb.ascend.osinfra.cn/)                                                         | [邮件列表使用指南](./mail-list/邮件列表使用指南.md)          | [@weixin_43493709](https://gitcode.com/weixin_43493709) | <zhuchao50@h-partners.com>  |
+| 社区邮件列表     | [跳转](https://mailweb.ascend.osinfra.cn/)            | [邮件列表使用指南](./mail-list/邮件列表使用指南.md)          | [@weixin_43493709](https://gitcode.com/weixin_43493709) | <zhuchao50@h-partners.com>  |
+
+
 
 ---
 
