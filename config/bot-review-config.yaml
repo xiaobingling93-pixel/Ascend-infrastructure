@@ -192,6 +192,8 @@ configs:
             person: ascend-robot
           - label: ascend-cla/yes
             person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
   - repos:
       - Ascend/msprof-analyze
       - Ascend/msmonitor
@@ -543,7 +545,6 @@ configs:
   - repos:
       - Ascend/AgentSDK
       - Ascend/IndexSDK
-      - Ascend/MutiModalSDK
       - Ascend/RAGSDK
       - Ascend/VisionSDK
       - Ascend/MindInferenceService
