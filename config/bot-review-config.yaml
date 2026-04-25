@@ -595,12 +595,27 @@ configs:
             person: ascend-robot
   - repos:
       - Ascend/AgentSDK
+      - Ascend/MEF
+      - Ascend/OMSDK
+    lgtm_need_nums: 3
+    approve_need_nums: 1
+    branch_configs:
+      - is_default: true
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
+  - repos:
       - Ascend/IndexSDK
       - Ascend/RAGSDK
       - Ascend/VisionSDK
       - Ascend/MindInferenceService
-      - Ascend/MEF
-      - Ascend/OMSDK
       - Ascend/MultimodalSDK
     lgtm_need_nums: 3
     approve_need_nums: 1
