@@ -166,6 +166,7 @@ configs:
       - Ascend/text-embeddings-inference
       - Ascend/faiss
       - Ascend/perf-reference-ascend
+      - Ascend/model-agent
     lgtm_need_nums: 2
     approve_need_nums: 1
     branch_configs:
