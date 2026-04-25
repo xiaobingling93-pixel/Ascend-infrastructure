@@ -179,6 +179,17 @@ configs:
             person: ascend-robot
           - label: ascend-cla/yes
             person: ascend-robot
+      - branch: branch_v26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
   - repos:
       - Ascend/infrastructure
     lgtm_need_nums: 1
@@ -425,6 +436,32 @@ configs:
             person: ascend-robot
           - label: ci-pipeline-passed
             person: ascend-robot
+      - branch: 7.3.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
+      - branch: 26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
   - repos:
       - Ascend/memcache
       - Ascend/memfabric_hybrid
@@ -543,6 +580,19 @@ configs:
             person: ascend-robot
           - label: ci-pipeline-passed
             person: ascend-robot
+      - branch: branch_v26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
   - repos:
       - Ascend/AgentSDK
       - Ascend/IndexSDK
@@ -563,6 +613,19 @@ configs:
           - label: approved
             person: ascend-robot
           - label: ascend-cla/yes
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
+      - branch: branch_v26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
             person: ascend-robot
           - label: ci-pipeline-passed
             person: ascend-robot
@@ -646,6 +709,32 @@ configs:
           - label: ascend-cla/yes
             person: ascend-robot
           - label: keeper_approved
+            person: ascend-robot
+      - branch: branch_v7.3.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
+      - branch: branch_v26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
             person: ascend-robot
   - repos:
       - Ascend/mindsdk-referenceapps
@@ -767,6 +856,32 @@ configs:
           - label: ci-pipeline-passed
             person: ascend-robot
           - label: keeper_approved
+            person: ascend-robot
+      - branch: branch_v7.3.0-RC1
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
+            person: ascend-robot
+      - branch: branch_v26.0.0
+        merge_method: squash
+        labels:
+          - label: lgtm
+            person: ascend-robot
+          - label: approved
+            person: ascend-robot
+          - label: ascend-cla/yes
+            person: ascend-robot
+          - label: keeper_approved
+            person: ascend-robot
+          - label: ci-pipeline-passed
             person: ascend-robot
       - branch: develop_torch_benchmark
         merge_method: squash
